@@ -1,2 +1,2 @@
 # devOPS
-devOPS CI CD Pipeline 
+devOPS CI/CD Pipeline 
